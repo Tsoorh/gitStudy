@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change befor the biggest merge!
+=======
+third time!@! branch yeaaaa!
+>>>>>>> firstbranch
